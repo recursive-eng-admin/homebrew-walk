@@ -1,6 +1,6 @@
 cask "walk" do
-  version "0.3.10"
-  sha256 "996033865fbe99f250daeff595e84ccd1d603816ea89621f7d1e7efca59104c6"
+  version "0.3.11"
+  sha256 "3b79c6fe377cdb70251a36efb2ef4d4aa827204d29abca72e0128fdacf056868"
 
   url "https://dl.walk.md/#{version}/openwalk-#{version}-macos-arm64.dmg"
   name "Openwalk"
